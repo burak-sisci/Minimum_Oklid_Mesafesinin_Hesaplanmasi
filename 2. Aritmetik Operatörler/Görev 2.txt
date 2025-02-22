@@ -1,4 +1,0 @@
-yaricap = int(input("dairenin yarıçapını gir.")) 
-alan = 3.14 * yaricap**2 
-
-print("dairenin alanı= ", alan) 
