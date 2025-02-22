@@ -1,4 +1,0 @@
-degisken = "python " 
-degisken += "programlama "
-
-print(degisken)
