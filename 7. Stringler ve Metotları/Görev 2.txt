@@ -1,4 +1,0 @@
-metin = "Pyhton programlama dili"
-ters_metin = metin[:: -1]
-print(ters_metin)
-metin.replace("programlama", "kodlama")
